@@ -5,6 +5,8 @@
  */
 
 
+/* Testing purpose */
+
 #include <kernel.h>
 #include <arch/cpu.h>
 #include <drivers/uart.h>
